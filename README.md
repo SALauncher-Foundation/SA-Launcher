@@ -6,6 +6,15 @@
 We are The SALauncher Foundation. We have come to create a server hosting app for Minecraft¹. Not some website with a time limit, or memory limitations, or even a limit on how many plugins you can use! No. We come with an app (in development) coded in Java that will suit your needs for a Minecraft server.
 
 
+<h3>Pricing</h3>
+We plan on having 2 options, ServerLauncherPro(free) and ServerLauncherPro+(Paid). Some features that we will have exclusive for the paid version will be as followed:
+<ul>Remote Access</ul>
+<ul>Built In Resource Monitor Per Server</ul>
+<ul>Proxy Support(BungeeCord)</ul>
+<ul>Constantly Updated List of Plugins for Quick Installation</ul>
+And much more to come!
+
+
 <h3>Future Plan</h3>
 We plan on eventually adding web application, remote access, and a mobile application. <b>THIS WILL TAKE TIME, SO DON'T EXPECT IT ANYTIME SOON</b>
 
