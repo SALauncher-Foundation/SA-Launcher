@@ -7,7 +7,7 @@ We are The SALauncher Foundation. We have come to create a server hosting app fo
 
 
 <h3>Pricing</h3>
-We plan on having 2 options, ServerLauncherPro(free) and ServerLauncherPro+(Paid). Some features that we will have exclusive for the paid version will be as followed:
+We plan on having 2 options, SA Launcher(free) and SA Launcher+(Paid). Some features that we will have exclusive for the paid version will be as followed:
 <ul>Remote Access</ul>
 <ul>Built In Resource Monitor Per Server</ul>
 <ul>Proxy Support(BungeeCord)</ul>
